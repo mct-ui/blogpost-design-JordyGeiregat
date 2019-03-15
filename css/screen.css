@@ -158,8 +158,11 @@ blockquote {
     font-style: italic;
     font-size: 23px;
     line-height: 32px;
-    margin: 0 0 24px;
-    font-family: "Times New Roman", serif;
+    margin: 48px -24px;
+    background-color: #F2FAF8;
+    color: #00B37D
+    padding 24px;
+
 }
 
 blockquote * {
