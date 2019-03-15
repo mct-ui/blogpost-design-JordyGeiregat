@@ -7,13 +7,13 @@
 @font-face {
     font-family: "Inter UI Web";
     font-weight: 400;
-    src: url("../fonts/Inter-UI-Regular.woff2;") format("woff2")
+    src: url("../fonts/Inter-UI-Regular.woff2") format("woff2")
 }
 
 @font-face {
     font-family: "Inter UI Web";
     font-weight: 700;
-    src: url("../fonts/Inter-UI-Bold.woff2;") format("woff2")
+    src: url("../fonts/Inter-UI-Bold.woff2") format("woff2")
 }
 
 /*
